@@ -1,4 +1,0 @@
-public SuperHero impliments {
-    boolean canFight() {
-        return True
-    }
